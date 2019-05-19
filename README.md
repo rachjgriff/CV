@@ -1,8 +1,10 @@
-## Your Name
+## Rachel Griffiths
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+An unexpected end to my 14 year Merchandising career in Retail, has led me to the world of coding and software development.  What I currently lack in tech skills (so far I have a few codeacademy courses, a 6 kyu on codewars and the Makers pre-course under my belt) I make up for with a beligerant need for logic and solutions.  In my previous roles, I loved building reports, discovering new excel formulas, automising processes, improving efficiency and analysing the data I manipulated. These are all things that are relatable to learning and building code.  I also have a wealth of experience in presenting, relationship building with external partners and managing teams which at one point reached 13 members.
 
-## Skills
+I am excited about the prospect of joining the tech industry, due to the constant need to learn and adapt, and the variety of paths you can take in your career. It’s especially exciting with all the current focus that Women in the tech industry are receiving – to be part of that revolution would be amazing!
+
+## Skills 
 
 #### This Skill
 
@@ -23,28 +25,46 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (May 2019 - August 2019)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
 - Great collaborator [PROVIDE EVIDENCE]
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- TDD
+- Ruby
+- RSpec
 
-#### Your University / College (start_date to end_date)
+#### University of Wales, Swansea (2000 - 2004)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
+- BSc (Hons) American Management Science
+- First
+- Business degree, focusing on maths & statistics
+- Year Abroad: University of Alberta, Canada (2002 - 2003)
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Lululemon** (January 2017 - April 2019)   
+*Womenswear Merchandiser*  
+**Ted Baker** (April 2015 - December 2016)   
+*Wholesale Merchandiser*  
+**Topman, Arcadia Group Ltd** (May 2005 - February 2015)    
+*International Merchandiser*  
+**Royal Bank of Scotland** (October 2004 - January 2005)   
+*Graduate Finance Trainee*  
+
+
+*HOBBIES
+- Gardening
+- Interior Design
+- Foodie
+- Music
+- Running
+
+*TRANSFERABLE SKILLS
+- Management
+- Presenting
+- Strategic Thinking
+- Data Analysis
+- Planning & Forecasting
+- Communication & Partner Relationships 
