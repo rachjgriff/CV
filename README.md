@@ -1,8 +1,16 @@
-## Rachel Griffiths
+# Rachel Griffiths 
 
-An unexpected end to my 14 year Merchandising career in Retail, has led me to the world of coding and software development.  What I currently lack in tech skills (so far I have a few codeacademy courses, a 6 kyu on codewars and the Makers pre-course under my belt) I make up for with a beligerant need for logic and solutions.  In my previous roles, I loved building reports, discovering new excel formulas, automising processes, improving efficiency and analysing the data I manipulated. These are all things that are relatable to learning and building code.  I also have a wealth of experience in presenting, relationship building with external partners and managing teams which at one point reached 13 members.
+<a href=https://www.linkedin.com/in/rachel-griffiths-b710498a/>
+<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" alt="linkedin" hspace="0" height="30" width="30"></a>
+<br>
 
-I am excited about the prospect of joining the tech industry, due to the constant need to learn and adapt, and the variety of paths you can take in your career. It’s especially exciting with all the current focus that Women in the tech industry are receiving – to be part of that revolution would be amazing!
+---------
+
+I am a software developer who recently graduated (August 2019) from the 16 week coding bootcamp at [Makers Academy](https://makers.tech). During this time, I have developed a process to learn new technologies and build software using TDD and Agile methodologies.
+
+After a 14 year Merchandising career in Retail, a need for a life restart, as well as my beligerant need for logic and solutions orientated approach, has led me to the world of TDD and coding.  In my previous roles, I loved building reports and programs using excel, automising processes, improving team efficiency and analysing data to drive change and get results. I also have a wealth of experience in cross functional teamwork, risk management, stakeholder management and leadership.  With these additional skills, I believe I can successfully transition into the tech industry as a Software Developer.
+
+I am excited about the prospect of joining the tech industry due to the constant need to learn and adapt, and the variety of paths you can take in your career. It’s especially exciting with all the current focus that Women in the tech industry are receiving – to be part of that revolution would be amazing!
 
 ## Skills 
 
