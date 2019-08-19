@@ -2,7 +2,9 @@
 
 <a href=https://www.linkedin.com/in/rachel-griffiths-b710498a/>
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" alt="linkedin" hspace="0" height="30" width="30"></a>
-<br>
+
+| [PROJECTS](#PROJECTS) | [SKILLS](#SKILLS) | [EDUCATION](#EDUCATION) | [EXPERIENCE](#EXPERIENCE) | [INTERESTS](#INTERESTS) |
+
 
 ---------
 
