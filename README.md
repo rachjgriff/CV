@@ -17,8 +17,8 @@ Although, none of the below projects are complete or particularly original, they
 | Project | Description | Time Frame | Technologies |
 | ----- | ----- | ----- | ----- 
 | [Acebook](https://github.com/lucianmot/acebook-off-the-rails) | Team project to build a clone of Facebook.  We followed agile processes & created a [vlog](https://www.youtube.com/channel/UCjQnMV5qEJ1BF_MSobdw01Q) to document our learnings. | 10 days | Capybara, Heroku, PostgreSQL, Rails, RSpec, Rubocop, Travis CI|
-| [Guilt Tripper](https://github.com/rhysco8/greenpeas-uk) | Team project to build an eco-friendly app in the final 2 weeks of Makers.  We applied the process we learnt during the course to use a tech stack that we hadn't used before whilst maintaining Agile methods. | 8 days | Swift, Xcode |
-| [Bowling Scorecard](https://github.com/rachjgriff/bowling-challenge) | Individual project to replocate a bowling scorecard after learning javascript for 5 days. Although I did not complete the user interface part of the challenge, I was particulary proud of completing the logic of the scorecard in a new language. | 2 days | Javascript, Jasmine |
+| [Guilt Tripper](https://github.com/rhysco8/greenpeas-uk) | Team project to build an eco-friendly app in the final 2 weeks of Makers.  We applied the process we learnt during the course to use a tech stack that we hadn't used before whilst maintaining Agile methods. The app checks products for palm oil and returns current news articles on this if the product contains it | 8 days | Swift, Xcode |
+| [Bowling Scorecard](https://github.com/rachjgriff/bowling-challenge) | Individual project to replocate a bowling scorecard after learning javascript in 5 days. Although I did not complete the user interface part of the challenge, I was particulary proud of completing the logic of the scorecard in a new language. | 2 days | Javascript, Jasmine |
 | [Bank Tech Test](https://github.com/rachjgriff/bank) | Individual project to print bank transactions in a specific bank statement format.  Although not perfect and further refactoring is required, this demonstrates my understanding of OOP and mocking. | 4 days | Ruby, RSpec, Rubocop, SimpleCov, Travis CI |
 | [Rock, Paper, Scissors](https://github.com/rachjgriff/rps-challenge) | Individual project to create my first solo web app that tested my understanding of the MVC structure | 2 days | Capybara, RSpec, Rubocop, Ruby, SimpleCov, Sinatra |
 
@@ -41,17 +41,20 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-## Education
+## EDUCATION
 
 #### Makers Academy (May 2019 - August 2019)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
-- TDD
-- Ruby
-- RSpec
+- Ruby, JavaScript, Rails, Swift
+- SQL/Postgres
+- Xcode
+- RSpec, Jasmine, Capybara
+- Travis CI & Heroku
+- OOP, TDD & CICD
+- Git workflow
+- Code reviews
+- Agile methods
+- Pair programming
 
 #### University of Wales, Swansea (2000 - 2004)
 
@@ -60,7 +63,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Business degree, focusing on maths & statistics
 - Year Abroad: University of Alberta, Canada (2002 - 2003)
 
-## Experience
+## EXPERIENCE
 
 **Lululemon** (January 2017 - April 2019)   
 *Womenswear Merchandiser*  
