@@ -27,25 +27,38 @@ Although, none of the below projects are complete or particularly original, they
 | [Bowling Scorecard](https://github.com/rachjgriff/bowling-challenge) | Individual project to replocate a bowling scorecard after learning javascript in 5 days. Although I did not complete the user interface part of the challenge, I was particulary proud of completing the logic of the scorecard in a new language. | 6 | 2 days | Javascript, Jasmine |
 | [Rock, Paper, Scissors](https://github.com/rachjgriff/rps-challenge) | Individual project to create my first solo web app that tested my understanding of the MVC structure | 3 | 2 days | Capybara, RSpec, Rubocop, Ruby, SimpleCov, Sinatra |
 
-## SKILLS 
+## SKILLS - WIP!!!
 ---------
 
-#### This Skill
+#### COMMUNICATION
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+- Feedback
+- Openness
+- Ability to teach
+- Not afraid to ask questions
+- Need to understand why
+- Inclusive
+- Respect
+- Simple & effective
+- Leading a team - coaching
 
-- Experience
-- Achievements
-- Evidence
+#### PLANNING
 
-#### Another Skill
+- Goal / target focused - what do we need to achieve in given time?
+- Prioritisation
+- Diagramming - examples
+- Trello
+- Research
+- Review feedback
+- Follow up, look to future
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### DRIVE & COMMITMENT
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- Set high expectations for myself and the teams i work in
+- Got on the course - committed to make a change after being bored for 6 months
+- Made big changes in the way the team worked at Lululemon
+- Learnt to code in 6 months
+- Attention to detail
 
 ## EDUCATION
 ---------
@@ -87,7 +100,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Target driven stock management
 - Managed a team of 5
 
-#### TOPMAN, ARCADIA GROUPT LTD (MAY 2005 - FEBRUARY 2015) 
+#### TOPMAN, ARCADIA GROUP LTD (MAY 2005 - FEBRUARY 2015) 
 *INTERNATIONAL MERCHANDISER*  
 - Adapted UK brand strategy to maximise sales internationally
 - Relationship management of 25+ franchise partners, across 30+ countries
@@ -100,9 +113,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## INTERESTS
 --------
 
-- Cats > I could bore you for hours with photos of my cat, Lyla
-- Gardening > Curating indoor and outdoor jungles
-- Interior Design > Mid-century obesessed
-- Music > Glasto enthusiast
-- Rugby > Avid Welsh rugby supporter and off to the Japan World Cup
-- Running > 2 half marathons under my belt
+:lion: Cats: My idea of chilling out is scrolling through instagram for cat pics and videos <br>
+:cactus: Gardening: Curating indoor and outdoor jungles <br>
+:house: Interior Design: Mid-century obesessed <br>
+:guitar: Music: Glasto enthusiast <br>
+:rugby_football: Rugby: Avid Welsh rugby supporter - off to the Japan World Cup in September 2019 <br>
+:running: Running: 2 half marathons under my belt & an application to the London Marathon 2020 submitted
