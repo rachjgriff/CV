@@ -14,8 +14,11 @@ After a 14 year Merchandising career in Retail, a need for a career (and brain!!
 
 I am excited about the prospect of joining the tech industry due to the constant need to learn and adapt, and the variety of paths you can take in your career. It’s especially exciting with all the current focus that Women in the tech industry are receiving – to be part of this revolution would be amazing!
 
-## PROJECTS
+## PROJECTS & TECHNOLOGY
 ---------
+
+<a href="https://sourcerer.io/rachjgriff"><img src="https://img.shields.io/badge/Ruby-310%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/rachjgriff"><img src="https://img.shields.io/badge/JavaScript-112%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/rachjgriff"><img src="https://img.shields.io/badge/HTML-102%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/rachjgriff"><img src="https://img.shields.io/badge/CSS-78%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/rachjgriff"><img src="https://img.shields.io/badge/SQL-70%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/rachjgriff"><img src="https://img.shields.io/badge/Swift-39%20commits-orange.svg" alt=""></a>
+
 
 Although, none of the below projects are complete or particularly original, they all demonstrate how much i've learnt on my 3 month coding journey.
 
