@@ -59,6 +59,7 @@ Although, none of the below projects are complete or particularly original, they
 - Made big changes in the way the team worked at Lululemon
 - Learnt to code in 6 months
 - Attention to detail
+- Challenge the norm, don't except mediocracy
 
 ## EDUCATION
 ---------
