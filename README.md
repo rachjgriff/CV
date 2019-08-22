@@ -20,7 +20,7 @@ I am excited about the prospect of joining the tech industry due to the constant
 <a href="https://sourcerer.io/rachjgriff"><img src="https://img.shields.io/badge/Ruby-310%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/rachjgriff"><img src="https://img.shields.io/badge/JavaScript-112%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/rachjgriff"><img src="https://img.shields.io/badge/HTML-102%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/rachjgriff"><img src="https://img.shields.io/badge/CSS-78%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/rachjgriff"><img src="https://img.shields.io/badge/SQL-70%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/rachjgriff"><img src="https://img.shields.io/badge/Swift-39%20commits-orange.svg" alt=""></a>
 
 
-Although, none of the below projects are far from perfect or particularly original, they all demonstrate how much i've learnt during my 3 month coding journey at Makers.
+Although, the below projects are far from perfect and none of them are particularly original, they all demonstrate how much i've learnt during my 3 month coding journey at Makers.
 
 | PROJECT | DESCRIPTION | WEEK NO | TIME FRAME | TECHNOLOGIES |
 | ----- | ----- | ----- | ----- | ----- 
