@@ -3,7 +3,7 @@
 <a href=https://www.linkedin.com/in/rachel-griffiths-b710498a/>
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" alt="linkedin" hspace="0" height="30" width="30"> <href="https://sourcerer.io/rachjgriff"><img src="https://sourcerer.io/icons/logo-sharing.svg"height="30px" alt="Sourcerer"></a>
 
-| [PROJECTS](#PROJECTS) | [SKILLS](#SKILLS) | [EDUCATION](#EDUCATION) | [EXPERIENCE](#EXPERIENCE) | [INTERESTS](#INTERESTS) |
+| [PROJECTS & TECHNOLOGY](#PROJECTS_&_TECHNOLOGY) | [SKILLS](#SKILLS) | [EDUCATION](#EDUCATION) | [EXPERIENCE](#EXPERIENCE) | [INTERESTS](#INTERESTS) |
 
 
 ---------
