@@ -10,13 +10,13 @@
 
 I am a software developer who started coding with [Codeacademy for Ruby](https://www.codecademy.com/learn/learn-ruby) for the first time in February 2019, and recently graduated (August 2019) from the 12 week coding bootcamp at [Makers Academy](https://makers.tech). During this time, I have developed a process to learn new technologies and build software using TDD and Agile methodologies in a time efficient way.
 
-After a 14 year Merchandising career in Fashion Retail, a need for a new challenge, as well as my beligerant need for logic and my solutions orientated approach, led me to the world of tech.   
+Having been a merchandiser at fashion retail brands for over 14 years, I recognised that there were ever-fewer opportunities available in the industry and my learning was stagnating. I was ready for a new challenge!  
 
 A conversation (over a glass of wine, or 2!) with my husband raised the prospect of “robots taking over our jobs” and led me to consider how likely this really could be (if retailers ever actually invested in technology that is!!). It was a moment of realisation for me and I wanted to get ahead of the game.
 
 Throughout my merchandising career, I have built and re-built reports or ‘programs’ to improve the efficiency and visibility of data within my teams … predominantly in Microsoft Excel! I craved for my retail employers to either invest in tech or invest in me, so that I could push my skillset in this area more effectively. Completing Makers has put me in a place where I am more equipped to achieve!
 
-I also developed a wealth of experience in cross functional teamwork, client-side strategy, and leadership.  With these additional skills, I believe I can successfully transition into the tech industry as a Software Developer.
+I also developed a wealth of experience in cross functional teamwork, client-side strategy, and leadership in my previous career.  With these additional skills, I believe I can successfully transition into the tech industry as a Software Developer.
 
 I am energised by the prospect of joining the tech industry and I am determined to make a success of my career change. Tech is such a great way to continually learn and challenge yourself, and the variety of paths you can take in your career are endless. It’s especially exciting with all the current focus that Women in tech are receiving and to be part of this revolution will be amazing!
 
@@ -68,7 +68,7 @@ Combined, I think these strengths put me in a great position to take on my first
 #### UNIVERSITY OF WALES, SWANSEA (2000 - 2004)
 
 - BSc (Hons) American Management Science (1st)
-- Business degree, focusing on maths & statistics
+- Business degree focusing on maths & statistics
 - Year Abroad: University of Alberta, Canada (2002 - 2003)
 
 ## EXPERIENCE
@@ -77,10 +77,10 @@ Combined, I think these strengths put me in a great position to take on my first
 #### LULULEMON EUROPE (JANUARY 2017 -  APRIL 2019)
 *SENIOR WOMENSWEAR MERCHANDISER*  
 - Responsible for the quarterly financial planning & range building for all of Womenswear (70% of total revenue)
-- In-season analysis & trading of sales & stock in order to maximise sales turnover
+- In-season analysis & trading of sales & stock in order to maximise sales turnover and profit, and optimise stock
 - Weekly presentation of sales performance
-- Managed a team of 3 & worked closely with Buying team, Head of Merchandising & Director of Product
 - Achieved significant sales growth (2018) & implemented new working practices
+- Managed a team of 3 & worked closely with Buying team, Head of Merchandising & Director of Product
 
 #### TED BAKER (APRIL 2015 - DECEMBER 2016)
 *SENIOR WHOLESALE MERCHANDISER*  
@@ -92,8 +92,8 @@ Combined, I think these strengths put me in a great position to take on my first
 *INTERNATIONAL MERCHANDISER*  
 - Adapted UK brand strategy to maximise sales internationally
 - Relationship management of 25+ franchise partners, across 30+ countries
-- Managed team of 13
 - Reviewed sales performance, competition & pricing in all international regions
+- Managed team of 13 & worked closely with Finance, Retail Operations, Logistics, Marketing, Visual Merchandising, International Regional Managers, & Brand Management
 
 #### ROYAL BANK OF SCOTLAND (OCTOBER 2004 - JANUARY 2005)
 *GRADUATE FINANCE TRAINEE*  
