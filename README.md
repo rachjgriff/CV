@@ -10,9 +10,15 @@
 
 I am a software developer who started coding with [Codeacademy for Ruby](https://www.codecademy.com/learn/learn-ruby) for the first time in February 2019, and recently graduated (August 2019) from the 12 week coding bootcamp at [Makers Academy](https://makers.tech). During this time, I have developed a process to learn new technologies and build software using TDD and Agile methodologies in a time efficient way.
 
-After a 14 year Merchandising career in Retail, a need for a career (and brain!!) restart, as well as my beligerant need for logic and my solutions orientated approach, led me to the world of tech.  In my previous roles, I loved building reports and programs using excel, automising processes, improving team efficiency and analysing data to drive change and get results. I also developed a wealth of experience in cross functional teamwork, risk management, stakeholder management and leadership.  With these additional skills, I believe I can successfully transition into the tech industry as a Software Developer.
+After a 14 year Merchandising career in Fashion Retail, a need for a new challenge, as well as my beligerant need for logic and my solutions orientated approach, led me to the world of tech.   
 
-I am excited about the prospect of joining the tech industry due to the constant need to learn and adapt, and the variety of paths you can take in your career. It’s especially exciting with all the current focus that Women in the tech industry are receiving – to be part of this revolution will be amazing!
+A conversation (over a glass of wine, or 2!) with my husband raised the prospect of “robots taking over our jobs” and led me to consider how likely this really could be (if retailers ever actually invested in technology that is!!). It was a moment of realisation for me and I wanted to get ahead of the game.
+
+Throughout my merchandising career, I have built and re-built reports or ‘programs’ to improve the efficiency and visibility of data within my teams … predominantly in Microsoft Excel! I craved for my retail employers to either invest in tech or invest in me, so that I could push my skillset in this area more effectively. Completing Makers has put me in a place where I am more equipped to achieve!
+
+I also developed a wealth of experience in cross functional teamwork, client-side strategy, and leadership.  With these additional skills, I believe I can successfully transition into the tech industry as a Software Developer.
+
+I am energised by the prospect of joining the tech industry and I am determined to make a success of my career change. Tech is such a great way to continually learn and challenge yourself, and the variety of paths you can take in your career are endless. It’s especially exciting with all the current focus that Women in tech are receiving and to be part of this revolution will be amazing!
 
 ## PROJECTS & TECHNOLOGY
 ---------
@@ -20,49 +26,28 @@ I am excited about the prospect of joining the tech industry due to the constant
 <a href="https://sourcerer.io/rachjgriff"><img src="https://img.shields.io/badge/Ruby-310%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/rachjgriff"><img src="https://img.shields.io/badge/JavaScript-112%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/rachjgriff"><img src="https://img.shields.io/badge/HTML-102%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/rachjgriff"><img src="https://img.shields.io/badge/CSS-78%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/rachjgriff"><img src="https://img.shields.io/badge/SQL-70%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/rachjgriff"><img src="https://img.shields.io/badge/Swift-39%20commits-orange.svg" alt=""></a>
 
 
-Although, the below projects are far from perfect and none of them are particularly original, they all demonstrate how much i've learnt during my 3 month coding journey at Makers.
+Although the below projects are far from perfect and none of them are particularly original, they all demonstrate how much i've learnt during my 3 month coding journey at Makers.
 
 | PROJECT | DESCRIPTION | WEEK NO | TIME FRAME | TECHNOLOGIES |
 | ----- | ----- | ----- | ----- | ----- 
-| [Guilt Tripper](https://github.com/rhysco8/greenpeas-uk) | Team project to build an eco-friendly app in the final 2 weeks of Makers.  We applied the process we learnt during the course to use a tech stack that we hadn't used before whilst maintaining Agile processes. <br><br> The app checks products for palm oil and is integrated with a News API.  If the product contains palm oil, current news articles are displayed in an effort to guilt trip the user into not buying or using the product. | 11 & 12 | 8 days | Swift, Xcode |
+| [Guilt Tripper](https://github.com/rhysco8/greenpeas-uk) | Team project to build an eco-friendly app in the final 2 weeks of Makers.  We applied the process we learnt during the course to learn a brand new tech stack in 10 days, whilst maintaining Agile processes. <br><br> The app checks products for palm oil and is integrated with a News API.  If the product contains palm oil, current news articles are displayed in an effort to guilt trip the user into not buying or using the product. | 11 & 12 | 10 days | Swift, Xcode |
 | [Bank Tech Test](https://github.com/rachjgriff/bank) | Individual project to print bank transactions in a specific bank statement format.  Although further refactoring is required, this demonstrates my understanding of OOP and mocking. | 10 | 4 days | Ruby, RSpec, Rubocop, SimpleCov, Travis CI |
 | [Acebook](https://github.com/lucianmot/acebook-off-the-rails) | Team project to build a clone of Facebook.  We followed agile processes & created a [vlog](https://www.youtube.com/channel/UCjQnMV5qEJ1BF_MSobdw01Q) to document our learnings. | 8 & 9 | 10 days | Capybara, Heroku, PostgreSQL, Rails, RSpec, Rubocop, Travis CI|
-| [Bowling Scorecard](https://github.com/rachjgriff/bowling-challenge) | Individual project to replocate a bowling scorecard after learning javascript in 5 days. Although I did not complete the user interface part of the challenge, I was particulary proud of completing the logic of the scorecard in a new language. | 6 | 2 days | Javascript, Jasmine |
+| [Bowling Scorecard](https://github.com/rachjgriff/bowling-challenge) | Individual project to replocate a bowling scorecard after learning javascript in 5 days. Although I did not complete the user interface part of the challenge, I was particulary proud of completing the logic of the scorecard in a new language. | 6 | 4 days | Javascript, Jasmine |
 | [Rock, Paper, Scissors](https://github.com/rachjgriff/rps-challenge) | Individual project to create my first solo web app that tested my understanding of the MVC structure. | 3 | 2 days | Capybara, RSpec, Rubocop, Ruby, SimpleCov, Sinatra |
 
-## SKILLS - WIP!!!
+## SKILLS
 ---------
 
-#### COMMUNICATION
+I have **HIGH EXPECTATIONS** for myself and the teams I work in. I always **STRIVE TO IMPROVE** and be the best that I can. I apply this mentality to the teams I work in and the projects I work on. 
 
-- Feedback
-- Openness
-- Ability to teach
-- Not afraid to ask questions
-- Need to understand why
-- Inclusive
-- Respect
-- Simple & effective
-- Leading a team - coaching
+Where necessary, I am happy to **CHALLENGE ‘THE NORM’**; challenging inefficient processes with thought through **SOLUTIONS** and taking my **TEAM** with me in doing so.
 
-#### PLANNING
+In a safe, supportive and encouraging environment, I am a **CONFIDENT COMMUNICATOR** who can speak to varying levels of seniority within a business and make change. My skills in **COMMUNICATING**, **ORGANISING** and **PLANNING** have proven key to **IMPLEMENTING CHANGE**, where I identify that it can bring positive difference; for my colleagues, for my clients and for business performance.
 
-- Goal / target focused - what do we need to achieve in given time?
-- Prioritisation
-- Diagramming - examples
-- Trello
-- Research
-- Review feedback
-- Follow up, look to future
+I am **TENACIOUS**, **DEDICATED** and **DETERMINED** to complete tasks within the given time frame to a very high standard.  These are strengths that have been instilled in me from a very young age.  I have a **‘NEVER GIVE UP’ ATTITUDE** which drives my love for **PROBLEM SOLVING** and **LOGIC**.  
 
-#### DRIVE & COMMITMENT
-
-- Set high expectations for myself and the teams i work in
-- Got on the course - committed to make a change after being bored for 6 months
-- Made big changes in the way the team worked at Lululemon
-- Learnt to code in 6 months
-- Attention to detail
-- Challenge the norm, don't except mediocracy
+Combined, I think these strengths put me in a great position to take on my first role in tech.
 
 ## EDUCATION
 ---------
