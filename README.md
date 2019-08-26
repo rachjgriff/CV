@@ -3,7 +3,7 @@
 <a href=https://www.linkedin.com/in/rachel-griffiths-b710498a/>
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" alt="linkedin" hspace="0" height="30" width="30"> <href="https://sourcerer.io/rachjgriff"><img src="https://sourcerer.io/icons/logo-sharing.svg"height="30px" alt="Sourcerer"></a>
 
-| [PROJECTS & TECHNOLOGY](#PROJECTS_&_TECHNOLOGY) | [SKILLS](#SKILLS) | [EDUCATION](#EDUCATION) | [EXPERIENCE](#EXPERIENCE) | [INTERESTS](#INTERESTS) |
+| [PROJECTS](#PROJECTS) | [SKILLS](#SKILLS) | [EDUCATION](#EDUCATION) | [EXPERIENCE](#EXPERIENCE) | [INTERESTS](#INTERESTS) |
 
 
 ---------
@@ -22,7 +22,7 @@ I have developed a wealth of experience in customer-focused decision making, cro
 
 I am energised by the prospect of joining the tech industry and I am determined to make a success of my career change. Tech is such a great way to continually learn and challenge yourself, and the variety of paths you can take in your career are endless. It’s especially exciting with all the current focus that Women in tech are receiving and to be part of this revolution will be amazing!
 
-## PROJECTS & TECHNOLOGY
+## PROJECTS
 ---------
 
 <a href="https://sourcerer.io/rachjgriff"><img src="https://img.shields.io/badge/Ruby-310%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/rachjgriff"><img src="https://img.shields.io/badge/JavaScript-112%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/rachjgriff"><img src="https://img.shields.io/badge/HTML-102%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/rachjgriff"><img src="https://img.shields.io/badge/CSS-78%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/rachjgriff"><img src="https://img.shields.io/badge/SQL-70%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/rachjgriff"><img src="https://img.shields.io/badge/Swift-39%20commits-orange.svg" alt=""></a>
