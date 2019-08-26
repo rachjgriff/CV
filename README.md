@@ -10,13 +10,15 @@
 
 I am a software developer who started coding with [Codeacademy for Ruby](https://www.codecademy.com/learn/learn-ruby) for the first time in February 2019, and recently graduated (August 2019) from the 12 week coding bootcamp at [Makers Academy](https://makers.tech). During this time, I have developed a process to learn new technologies and build software using TDD and Agile methodologies in a time efficient way.
 
-Having been a merchandiser at fashion retail brands for over 14 years, I recognised that there were ever-fewer opportunities available in the industry and my learning was stagnating. I was ready for a new challenge!  
+There are 3 things that stand out which have led me to a career in software development:
 
-A conversation (over a glass of wine, or 2!) with my husband raised the prospect of “robots taking over our jobs” and led me to consider how likely this really could be (if retailers ever actually invested in technology that is!!). It was a moment of realisation for me and I wanted to get ahead of the game.
+1. Having been a merchandiser at fashion retail brands for over 14 years, I recognised that there were ever-fewer opportunities available in the industry and my learning was stagnating. I was ready for a new challenge!  
 
-Throughout my merchandising career, I have built and re-built reports or ‘programs’ to improve the efficiency and visibility of data within my teams … predominantly in Microsoft Excel! I craved for my retail employers to either invest in tech or invest in me, so that I could push my skillset in this area more effectively. Completing Makers has put me in a place where I am more equipped to achieve!
+2. A conversation (over a glass of wine, or 2!) with my husband raised the prospect of “robots taking over our jobs” and led me to consider how likely this really could be (if retailers ever actually invested in technology that is!!). It was a moment of realisation for me and I wanted to get ahead of the game.
 
-I also developed a wealth of experience in cross functional teamwork, client-side strategy, and leadership in my previous career.  With these additional skills, I believe I can successfully transition into the tech industry as a Software Developer.
+3. Throughout my merchandising career, I have built and re-built reports or ‘programs’ to improve the efficiency and visibility of data within my teams … predominantly in Microsoft Excel! I craved for my retail employers to either invest in tech or invest in me, so that I could push my skillset in this area more effectively. Completing Makers has put me in a place where I am more equipped to achieve!
+
+I have developed a wealth of experience in customer-focused decision making, cross functional teamwork, client-side strategy, and leadership in my previous career.  With this experience, I believe I can successfully transition into the tech industry as a Software Developer.
 
 I am energised by the prospect of joining the tech industry and I am determined to make a success of my career change. Tech is such a great way to continually learn and challenge yourself, and the variety of paths you can take in your career are endless. It’s especially exciting with all the current focus that Women in tech are receiving and to be part of this revolution will be amazing!
 
