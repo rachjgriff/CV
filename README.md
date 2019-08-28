@@ -10,7 +10,7 @@
 
 ---------
 
-I am a software developer who started coding with [Codeacademy for Ruby](https://www.codecademy.com/learn/learn-ruby) for the first time in February 2019, and recently graduated (August 2019) from the 12 week coding bootcamp at [Makers Academy](https://makers.tech). During this time, I have developed a process to learn new technologies and build software using TDD and Agile methodologies in a time efficient way.
+I am a software developer who started coding with [Codeacademy for Ruby](https://www.codecademy.com/learn/learn-ruby) for the first time in February 2019, and recently graduated (August 2019) from the 16 week coding bootcamp at [Makers Academy](https://makers.tech). During this time, I have developed a process to learn new technologies and build software using TDD and Agile methodologies in a time efficient way.
 
 There are 3 things that stand out which have led me to a career in software development:
 
@@ -35,7 +35,7 @@ Although the below projects are far from perfect and none of them are particular
 | PROJECT | DESCRIPTION | WEEK NO | TIME FRAME | TECHNOLOGIES |
 | ----- | ----- | ----- | ----- | ----- 
 | [Guilt Tripper](https://github.com/rhysco8/greenpeas-uk) | Team project to build an eco-friendly app in the final 2 weeks of Makers.  We applied the process we learnt during the course to learn a brand new tech stack in 10 days, whilst maintaining Agile processes. <br><br> The app checks products for palm oil and is integrated with a News API.  If the product contains palm oil, current news articles are displayed in an effort to guilt trip the user into not buying or using the product. | 11 & 12 | 10 days | Swift, Xcode |
-| [Bank Tech Test](https://github.com/rachjgriff/bank) | Individual project to print bank transactions in a specific bank statement format.  Although further refactoring is required, this demonstrates my understanding of OOP and mocking. | 10 | 4 days | Ruby, RSpec, Rubocop, SimpleCov, Travis CI |
+| [Bank Tech Test](https://github.com/rachjgriff/bank) | Individual project to print bank transactions in a specific bank statement format.  I have recently refactored this to ensure that I am testing behaviour, not state and it also demonstrates my understanding of OOP and mocking. | 10 | 4 days | Ruby, RSpec, Rubocop, SimpleCov, Travis CI |
 | [Acebook](https://github.com/lucianmot/acebook-off-the-rails) | Team project to build a clone of Facebook.  We followed agile processes & created a [vlog](https://www.youtube.com/channel/UCjQnMV5qEJ1BF_MSobdw01Q) to document our learnings. | 8 & 9 | 10 days | Capybara, Heroku, PostgreSQL, Rails, RSpec, Rubocop, Travis CI|
 | [Bowling Scorecard](https://github.com/rachjgriff/bowling-challenge) | Individual project to replocate a bowling scorecard after learning javascript in 5 days. Although I did not complete the user interface part of the challenge, I was particulary proud of completing the logic of the scorecard in a new language. | 6 | 4 days | Javascript, Jasmine |
 | [Rock, Paper, Scissors](https://github.com/rachjgriff/rps-challenge) | Individual project to create my first solo web app that tested my understanding of the MVC structure. | 3 | 2 days | Capybara, RSpec, Rubocop, Ruby, SimpleCov, Sinatra |
